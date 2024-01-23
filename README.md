@@ -15,6 +15,8 @@ Concluído!!!
 ## Demonstração da aplicação
 [clique aqui para jogar](https://renatabc.github.io/eevee-elements/)
 
+![jogo](https://github.com/Renatabc/eevee-elements/assets/93830634/0d0d3bc6-b9bb-4b84-a509-5a2f02a1db5f)
+
 ## Pré-requisitos
 - Para **baixar o repositório**, recomenda-se o aplicativo [GIT](https://git-scm.com/downloads).
 - Após a instalação e configurações iniciais, utilizar no **terminal GIT Bash** o comando **git clone** e o **link do repositório**.
