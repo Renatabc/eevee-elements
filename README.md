@@ -13,7 +13,7 @@ Fogo| Água | Elétrico
 Concluído!!!
 
 ## Demonstração da aplicação
-[clique aqui para jogar](https://renatabc.github.io/emoji-memory-game/)
+[clique aqui para jogar](https://renatabc.github.io/eevee-elements/)
 
 ## Pré-requisitos
 - Para **baixar o repositório**, recomenda-se o aplicativo [GIT](https://git-scm.com/downloads).
